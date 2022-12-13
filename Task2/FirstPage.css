@@ -1,0 +1,102 @@
+#FirstPage{
+    height: 720px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 97px;
+}
+#MainText{
+    height: 130px;
+    width: 1140px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 9.03%;
+    right: 11.81%;
+    top: 366px;
+}
+#text{
+    position: absolute;
+    height: 131px;
+    width: 1071px;
+    left: 0%;
+    right: 6.05%;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 84px;
+    line-height: 130px;
+
+    color: #000000;
+    z-index: 1;
+}
+#FirstPagePhoto{
+    height: 578px;
+    width: 488px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 57.78%;
+    right: 8.33%;
+    top: 71px;
+
+background: url(FirstPagePhoto.png);
+}
+#FirstPageLink{
+    height: 55px;
+    width: 200px;
+    border-radius: 30px;
+
+    position: absolute;
+    left: 8.89%;
+    right: 77.22%;
+    top: 471px;
+}
+#LinkText{
+    position: absolute;
+    width: 179px;
+    height: 28px;
+    left: calc(50% - 179px/2 + 0.5px);
+    top: 14px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #000000;
+}
+#ArrowCase{
+    height: 17px;
+    width: 55px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 22.71%;
+    right: 73.47%;
+    top: 490px;
+
+    background: url(Arrow.png);
+
+}
+#Arrow{
+    height: 17px;
+    width: 55px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    border-radius: 0px;
+
+}

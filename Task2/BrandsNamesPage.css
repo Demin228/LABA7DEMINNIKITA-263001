@@ -1,0 +1,98 @@
+#BrandsNames{
+    height: 400px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 4987px;
+}
+#BrandNumber1Case{
+    height: 139px;
+    width: 533px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0.21%;
+    right: 62.78%;
+    top: 2px;
+}
+#BrandNumber1Text{
+    height: 139px;
+    width: 533px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;  
+    
+    background: url(BrandNumber1.png);
+}
+#BrandNumber2Case{
+    height: 121px;
+    width: 893px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 37.92%;
+    right: 0.07%;
+    top: 19px;
+}
+#BrandNumber2Text{
+    height: 121px;
+    width: 893px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background: url(BrandNumber2.png);
+}
+#BrandNumber3Case{
+    height: 146px;
+    width: 1037px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0.28%;
+    right: 27.71%;
+    top: 208px;
+}
+#BrandNumber3Text{
+    height: 146px;
+    width: 1037px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background: url(BrandNumber3.png);
+}
+#BrandNumber4Case{
+    height: 137px;
+    width: 389px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 72.92%;
+    right: 0.07%;
+    top: 206px;
+}
+#BrandNumber4Text{
+    height: 137px;
+    width: 389px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background: url(BrandNumber4.png);
+}

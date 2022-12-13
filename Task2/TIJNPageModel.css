@@ -1,0 +1,110 @@
+#TIJNPageModel{
+    height: 620px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 2494px;   
+    
+    background: rgba(170, 186, 208, 1);
+}
+#UpperAddText{
+    height: 31px;
+    width: 42px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 49.93%;
+    right: 47.15%;
+    top: 280px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 163%;
+    
+    color: #000000;
+}
+#ModelName{
+    height: 108px;
+    width: 240px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 49.93%;
+    right: 33.4%;
+    top: 293px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 155%;
+
+    color: #000000;
+}
+#LowerAddText{
+    height: 31px;
+    width: 260px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 50.14%;
+    right: 31.81%;
+    top: 400px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 155%;
+
+
+    color: #000000;
+}
+#LinkModelButton{
+    height: 120px;
+    width: 290px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 50%;
+    right: 29.86%;
+    top: 500px;
+
+    background: rgba(255, 188, 188, 1);
+}
+#LinkModelButtonText{
+    height: 28px;
+    width: 156px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 156px/2);
+    top: 46px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 155%;
+
+    text-align: center;
+
+    color: #000000;
+}
+#TIJNPageModelPhoto{
+    height: 620px;
+    width: 648px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 55%;
+    top: 0px;
+
+    background: url(TIJNPageModelPhoto.png);
+}

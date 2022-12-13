@@ -1,0 +1,77 @@
+#BrandsPage{
+    height: 75px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 4837px;
+}
+#BrandsTextCase{
+    height: 108px;
+    width: 420px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 4.58%;
+    right: 66.25%;
+    top: -29px;    
+}
+#BrandsText{
+    height: 109px;
+    width: 350px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 16.67%;
+    top: 6px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 155%;
+
+    color: #000000;
+}
+#BrandsLinkTextCase{
+    height: 55px;
+    width: 200px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 85.07%;
+    right: 1.04%;
+    top: 17px;
+}
+#BrandsLInkText{
+    height: 28px;
+width: 85px;
+border-radius: 0px;
+
+position: absolute;
+left: calc(50% - 85px/2 + 0.5px);
+top: 13px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 164%;
+
+text-align: center;
+
+color: #000000;
+}
+#rect5{
+    height: 2px;
+    width: 1464px;
+    border-radius: 0px;
+
+    position: absolute;
+    top: 71px;
+
+    background: #000000;
+}

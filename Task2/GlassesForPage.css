@@ -1,0 +1,96 @@
+#GlassesForPage{
+    height: 620px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 4022px;
+}
+#MenGlassesPhoto{
+    height: 620px;
+    width: 720px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 50%;
+    right: 0%;
+    top: 0px;
+
+    background: url(MenGlasses.png);
+}
+#WomenGlassesPhoto{
+    height: 620px;
+    width: 720px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0.07%;
+    right: 49.93%;
+    top: 0px;
+
+    background: url(WomenGlasses.png);
+}
+#ForSun{
+    height: 110px;
+    width: 280px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 80.56%;
+    right: 0%;
+    top: 511px;   
+
+    background:  rgba(255, 188, 188, 1); 
+}
+#LinkTextMenGlasses{
+    height: 28px;
+    width: 90px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 75px/2 + 0.5px);
+    top: 41px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 155%;
+
+    text-align: center;
+
+    color: #000000;
+}
+#ForSight{
+    height: 110px;
+    width: 280px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 30.56%;
+    right: 50%;
+    top: 511px;
+
+    background:  rgba(255, 188, 188, 1);
+}
+#LinkTextWomenGlasses{
+    height: 28px;
+    width: 90px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 90px/2);
+    top: 41px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 155%;
+    
+    text-align: center;
+    
+    color: #000000;    
+}

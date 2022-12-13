@@ -1,0 +1,87 @@
+#InformationAboutCompany{
+    height: 490px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 5582px;
+    }
+#AboutCompanyTitle{
+    height: 108px;
+    width: 560px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 9.51%;
+    right: 51.6%;
+    top: -29px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 155%;
+    
+    color: #000000;
+}
+#AboutCompanyText{
+    height: 330px;
+    width: 470px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 9.65%;
+    right: 57.71%;
+    top: 99px;
+}
+#AboutCompanyTextPart1{
+    height: 120px;
+    width: 467px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0.64%;
+    top: 2px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+
+    color: #000000;
+}
+#AboutCompanyTextPart2{
+    height: 180px;
+    width: 468px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0.43%;
+    top: 152px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+
+    color: #000000;
+}
+#AboutCompanyPhoto{
+    height: 490px;
+    width: 420px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 50%;
+    right: 20.83%;
+    top: 0px;
+
+    background: url(WomenPhoto.png);
+    border-radius: 0px;
+}

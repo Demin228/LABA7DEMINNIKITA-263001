@@ -1,0 +1,98 @@
+#ShopsPage{
+    height: 620px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 967px;
+}
+#MenShopPhoto{
+    height: 620px;
+    width: 720px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 50%;
+    right: 0%;
+    top: 0px;
+
+    background: url(MenShop.png);
+    border-radius: 0px;
+}
+#WomenShopPhoto{
+    height: 620px;
+    width: 720px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0.07%;
+    right: 49.93%;
+    top: 0px;
+
+    background: url(WomenShop.png);
+    border-radius: 0px;
+}
+#WomenShop{
+    height: 110px;
+    width: 280px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 30.56%;
+    right: 50%;
+    top: 510px;
+
+    background: rgba(255, 188, 188, 1);
+}
+#LinkTextWomen{
+    height: 28px;
+    width: 121px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 121px/2 + 0.5px);
+    top: 41px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #000000;
+}
+ #MenShop{
+    height: 110px;
+    width: 280px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 80.56%;
+    right: 0%;
+    top: 510px;
+
+    background: rgba(255, 188, 188, 1);
+}
+#LinkTextMen{
+    height: 28px;
+    width: 91px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 91px/2 + 0.5px);
+    top: 41px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #000000;
+}

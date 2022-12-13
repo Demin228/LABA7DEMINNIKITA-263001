@@ -1,0 +1,301 @@
+#GlassesPage{
+    height: 367.359375px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 1932px;
+
+    color: #000000;
+}
+/* .GlassesPhoto{
+    height: 254px;
+    width: 453px;
+    border-radius: 0px;
+}
+.GlassesTextCase{
+    height: 113.5px;
+    width: 453.328125px;
+    border-radius: 0px;
+}
+.GlassesName{
+    height: 27px;
+    width: 59px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    background: rgba(0, 0, 0, 1);
+}
+.GlassesColor{
+    height: 25px;
+    width: 67px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    background: rgba(0, 0, 0, 1);
+}
+.GlassesPrice{
+    height: 21px;
+    width: 29px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    background: rgba(0, 0, 0, 1);
+} */
+#GlassesNumber1{
+    height: 367.359375px;
+    width: 453.328125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 453.33px/2 - 473.34px);
+    top: 0px;
+}
+.GlassesPhoto-Number1{
+    height: 254px;
+    width: 453px;
+    border-radius: 0px;
+    
+    position: absolute;
+    left: 0%;
+    right: 0.07%;
+    top: 0px;
+
+    background: url(GlassesNumber1.png);
+}
+.GlassesTextCase-Number1{
+    height: 113.5px;
+    width: 453.328125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 253.86px;
+}
+.GlassesName-Number1{
+    position: absolute;
+    left: calc(50% - 59px/2 - 0.16px);
+    top: 20.14px;
+
+    height: 27px;
+    width: 59px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.GlassesColor-Number1{
+    position: absolute;
+    left: calc(50% - 67px/2 - 0.16px);
+    top: 54.14px;
+
+    height: 25px;
+    width: 67px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.GlassesPrice-Number1{
+    position: absolute;
+    left: calc(50% - 29px/2 - 0.01px);
+    top: calc(50% - 21px/2 + 46.25px);
+
+    height: 21px;
+    width: 29px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+#GlassesNumber2{
+    height: 367.359375px;
+    width: 453.328125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 453.33px/2 - 0.01px);
+    top: 0px;
+}
+.GlassesPhoto-Number2{
+    height: 254px;
+    width: 453px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: -0.07%;
+    right: 0.14%;
+    top: 0px;
+
+    background: url(GlassesNumber2.png);
+}
+.GlassesTextCase-Number2{
+    height: 113.5px;
+    width: 453.328125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 253.86px;
+}
+.GlassesName-Number2{
+    position: absolute;
+    left: calc(50% - 50px/2 + 0.01px);
+    top: 20.14px;
+
+    height: 27px;
+    width: 59px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.GlassesColor-Number2{
+    position: absolute;
+    left: calc(50% - 67px/2 - 0.49px);
+    top: 54.14px;
+
+    height: 25px;
+    width: 67px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.GlassesPrice-Number2{
+        position: absolute;
+    left: calc(50% - 37px/2 - 0.01px);
+    top: calc(50% - 21px/2 + 46.25px);
+
+    height: 21px;
+    width: 29px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+#GlassesNumber3{
+    height: 367.359375px;
+    width: 453.328125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: calc(50% - 453.33px/2 + 473.32px);
+    top: 0px;
+}
+.GlassesPhoto-Number3{
+    height: 254px;
+    width: 453px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0.08%;
+    right: 0%;
+    top: 0px;
+
+    background: url(GlassesNumber3.png);
+}
+.GlassesTextCase-Number3{
+    height: 113.5px;
+    width: 453.328125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 253.86px;
+}
+.GlassesName-Number3{
+    position: absolute;
+    left: calc(50% - 115px/2 + 0.18px);
+    top: 20.14px;
+
+    height: 27px;
+    width: 115px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.GlassesColor-Number3{
+    position: absolute;
+    left: calc(50% - 67px/2 + 0.18px);
+    top: 54.14px;
+
+    height: 25px;
+    width: 67px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.GlassesPrice-Number3{
+    position: absolute;
+    left: calc(50% - 34px/2 - 0.01px);
+    top: calc(50% - 21px/2 + 46.25px);
+
+    height: 21px;
+    width: 29px;
+    border-radius: 0px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}

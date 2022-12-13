@@ -1,0 +1,79 @@
+#BestsellersPage{
+    height: 75px;
+    width: 1440px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 3309px;
+}
+#BestsellersTextCase{
+    height: 108px;
+    width: 420px;
+    border-radius: 0px;
+
+
+    position: absolute;
+    left: 4.58%;
+    right: 66.25%;
+    top: -29px;
+}
+#BestsellersText{
+    height: 109px;
+    width: 350px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 16.67%;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 108px;
+
+    color: #000000;
+}
+#BestsellersLinkTextCase{
+    height: 55px;
+    width: 200px;
+    border-radius: 0px;
+
+
+    position: absolute;
+    left: 81.88%;
+    right: 4.24%;
+    top: 17px;
+}
+#BestsellersLInkText{
+    height: 28px;
+    width: 179px;
+    border-radius: 0px;
+    
+    position: absolute;
+    left: calc(50% - 179px/2 + 0.5px);
+    top: 14px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 164%;
+
+    text-align: center;
+
+    color: #000000;
+}
+#rect4{
+    height: 2px;
+    width: 1464px;
+    border-radius: 0px;
+
+    position: absolute;
+    top: 71px;
+    
+    background: #000000;
+}
